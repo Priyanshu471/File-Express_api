@@ -81,7 +81,7 @@ const template = ({ name, size, link, expiry, url }) => {
             <div class="footer">
                 <p>For more information about File Express, visit our <a href="${url}">website</a>.</p>
             </div>
-          <p style="color: #666666;">Best regards,<br>Priyanshu<br>File Express - Send file before your text</p>
+          <p style="color: #666666;">Best regards,<br>Priyanshu<br>File Express - Where Sharing takes Flight</p>
         </div>
     </body>
     </html>   
